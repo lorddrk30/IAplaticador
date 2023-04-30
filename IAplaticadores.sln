@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAplaticadores", "IAplaticadores.csproj", "{C169107F-355B-415F-A0F6-0B10EAC709B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C169107F-355B-415F-A0F6-0B10EAC709B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C169107F-355B-415F-A0F6-0B10EAC709B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C169107F-355B-415F-A0F6-0B10EAC709B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C169107F-355B-415F-A0F6-0B10EAC709B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BA8A14-44E5-4479-8A8F-F608B9D7F8D4}
+	EndGlobalSection
+EndGlobal
